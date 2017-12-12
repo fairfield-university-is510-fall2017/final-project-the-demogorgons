@@ -13,7 +13,7 @@ This project was difficult at certain points, but these obstacles are the area w
 The dataset "Video Game Sales" is provided by Kaggle [here](https://www.kaggle.com/gregorut/videogamesales).  
 
 ### Links
-ERD:
+[ERD](https://github.com/fairfield-university-is510-fall2017/final-project-the-demogorgons/blob/master/VideoGames_ERD.png)
 DDL:
 DML:
 Analysis:
