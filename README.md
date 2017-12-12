@@ -16,7 +16,7 @@ The dataset "Video Game Sales" is provided by Kaggle [here](https://www.kaggle.c
 [ERD](https://github.com/fairfield-university-is510-fall2017/final-project-the-demogorgons/blob/master/VideoGames_ERD.png)  
 [DDL](https://github.com/fairfield-university-is510-fall2017/final-project-the-demogorgons/blob/master/DDL_VideoGames.ipynb)  
 [DML](https://github.com/fairfield-university-is510-fall2017/final-project-the-demogorgons/blob/master/DML_VideoGames.ipynb)  
-Analysis  
+[Analysis](https://github.com/fairfield-university-is510-fall2017/final-project-the-demogorgons/blob/master/Analysis%20Final.ipynb)  
 
 
 ### **Challenges**
