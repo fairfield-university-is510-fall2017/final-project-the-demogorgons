@@ -15,8 +15,8 @@ The dataset "Video Game Sales" is provided by Kaggle [here](https://www.kaggle.c
 ### Links
 [ERD](https://github.com/fairfield-university-is510-fall2017/final-project-the-demogorgons/blob/master/VideoGames_ERD.png)  
 [DDL](https://github.com/fairfield-university-is510-fall2017/final-project-the-demogorgons/blob/master/DDL_VideoGames.ipynb)  
-DML:
-Analysis:
+[DML](https://github.com/fairfield-university-is510-fall2017/final-project-the-demogorgons/blob/master/DML_VideoGames.ipynb)  
+Analysis  
 
 
 ### **Challenges**
@@ -26,7 +26,8 @@ We experienced our fair share of obstacles throughout the project.  They are exp
 1. Importing and inserting the data was a tough roadblock.  We were stuck on it for a while and had to go back a few different times.  But once we overcame it with the help of Dr. Huntley, the rest of the project was manageable so long we stayed focused.  
 2. Finalizing the ERD so that all logical and necessary attributes, relationships, and tables were featured. We would have to revise it a few times because we had to see it in a few different perspectives throughout the project.    
 3. Translating the ERD into a functioning database. Making sure it all comes together!
-4. Finding and fixing bugs from different type of errors.  
+4. Finding and fixing bugs from different type of errors. 
+5. Keeping patient when hitting roadblocks.  
 
 ### **Lessons Learned**
 
@@ -34,4 +35,5 @@ We may have experienced significant challenges, we were able to overcome them an
 1. How to put together a database in a completely new program.  SQLite was quick and easy to learn for the project, but we would have to remind ourselves we were not working in MySQL as we were for the entirety of the semester.  We had to familiarize ourselves with the new coding format.
 2. When a certain way proves unsuccessful, do not spend much more time agonizing over it.  Take your time, figure out the issue carefully, and if not, attempt it a different way.  
 3. Use all the resources available.  RTM!  Self-explanatory. 
-4. Dr. Huntley helped us through many of our roadblocks and his help is greatly appreciated.  
+4. Get planning and working early because the actual coding and analysis will just frustrate even more when pressed for time and energy. 
+5. Dr. Huntley helped us through many of our roadblocks and his help is greatly appreciated.  
